@@ -3,7 +3,7 @@
 A fully offline, single-file study portal built for SSC CGL preparation.  
 No installation. No login. No server. Just open `index.html` in Chrome and study.
 
-🌐 **Live:** [yourusername.github.io/ssc-cgl-studydesk](https://yourusername.github.io/ssc-cgl-studydesk)
+🌐 **Live:** [betasquad.github.io/ssc-cgl-studydesk](https://betasquad.github.io/ssc-cgl-studydesk)
 
 ---
 
